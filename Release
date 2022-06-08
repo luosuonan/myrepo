@@ -7,7 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: Luosuonan的常用软件源
 MD5Sum:
- aa48339a204dd1728363898b33b2208a 657 Packages
- d3346e48909ab912519c90d002f8c0ba 461 Packages.bz2
- dcce08d3b2c4556488fab1e365d49259 424 Packages.gz
+ e9e83841aa495cc865d88bfab1933f8d 978 Packages
+ 62df6e1cea8807f8777df795afd9f0e5 588 Packages.bz2
+ 91b602f0858b0ab81af69ba72a3b6339 519 Packages.gz
 

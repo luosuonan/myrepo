@@ -1,3 +1,17 @@
+Package: com.luosuonan.cpu
+Name: cpu
+Author: Luosuonan <(null)>
+Filename: debs/com.luosuonan.cpu_1_iphoneos-arm.deb
+Size: 4036
+MD5sum: f2aed5a82c1e68a57612bcd427914ed0
+Description: cpu down
+Depends: mobilesubstrate
+Maintainer: Luosuonan <(null)>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1
+Installed-Size: 264
+
 Package: com.rpetrich.powercuff
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
