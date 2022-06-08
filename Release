@@ -1,0 +1,13 @@
+Origin: Luosuonan的cydia源
+Label: Luosuonan
+Suite: stable
+Version: 1.0
+Codename: Luosuonan
+Architectures: iphoneos-arm
+Components: main
+Description: Luosuonan的常用软件源
+MD5Sum:
+ aa48339a204dd1728363898b33b2208a 657 Packages
+ d3346e48909ab912519c90d002f8c0ba 461 Packages.bz2
+ dcce08d3b2c4556488fab1e365d49259 424 Packages.gz
+
