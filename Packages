@@ -1,12 +1,12 @@
-Package: com.yourcompany.vrplayerprocrack
+Package: com.xigua.vrplayerprocrack
 Name: VR Player Pro Crack
 Architecture: iphoneos-arm
-Filename: debs/com.yourcompany.vrplayerprocrack_0.0.1_iphoneos-arm.deb
-Size: 3554
-MD5sum: 1dc2f39aa8f68b5877b517a536218957
+Filename: debs/com.xigua.vrplayerprocrack_0.0.1_iphoneos-arm.deb
+Size: 3550
+MD5sum: 2c8a99ef5024adbb9d8d6b82dbccdc0e
 Description: Free cracking using VR Player Pro!
-Maintainer: luosuonan
-Author: luosuonan
+Maintainer: xigua
+Author: xigua
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 0.0.1

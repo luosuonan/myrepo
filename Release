@@ -1,13 +1,13 @@
-Origin: luosuonan的cydia源
-Label: luosuonan
+Origin: xigua's Repo
+Label: xigua
 Suite: stable
 Version: 1.0
-Codename: luosuonan
+Codename: xigua
 Architectures: iphoneos-arm
 Components: main
-Description: luosuonan的常用软件源
+Description: xigua's Repo
 MD5Sum:
- 983316383afd4713a43ce73ae48ef9af 397 Packages
- 69142b715e37f506f92a2642eea9d9f8 326 Packages.bz2
- a5809aef77fd3d5c19d1302a24c79dc0 291 Packages.gz
+ 6d25b8e49d2488546335b8283ab8360a 377 Packages
+ 803c1f03bda87b8681fd385a24946c0a 310 Packages.bz2
+ bb059b2745f4397d5d8dccb09970299f 282 Packages.gz
 
